@@ -1,3 +1,3 @@
 # Retail Sales Analysis SQL Project
 
-For Queries Look of the file 
+For Queries Look of the file retail-analysis.sql
